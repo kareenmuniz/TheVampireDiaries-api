@@ -1,0 +1,124 @@
+{
+    "personagens_principais": [
+      {
+        "nome": "Damon Salvatore",
+        "descricao": "Um vampiro sarcástico e impulsivo, irmão mais velho de Stefan Salvatore.",
+        "idade": "174 anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Ian Somerhalder",
+        "imagem": "damon_salvatore.jpg"
+      },
+      {
+        "nome": "Stefan Salvatore",
+        "descricao": "Irmão mais novo de Damon, tenta viver de forma mais humana e ética.",
+        "idade": "171 anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Paul Wesley",
+        "imagem": "stefan_salvatore.jpg"
+      },
+      {
+        "nome": "Elena Gilbert",
+        "descricao": "Estudante do ensino médio que se torna o interesse amoroso central de Damon e Stefan.",
+        "idade": "18 anos",
+        "especie": "Humana",
+        "interpretado_por": "Nina Dobrev",
+        "imagem": "elena_gilbert.jpg"
+      },
+      {
+        "nome": "Caroline Forbes",
+        "descricao": "Amiga próxima de Elena e se transforma em vampira mais tarde na série.",
+        "idade": "18 anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Candice King",
+        "imagem": "caroline_forbes.jpg"
+      },
+      {
+        "nome": "Bonnie Bennett",
+        "descricao": "Uma bruxa poderosa e amiga íntima de Elena, capaz de realizar feitiços poderosos.",
+        "idade": "19 anos",
+        "especie": "Bruxa",
+        "interpretado_por": "Kat Graham",
+        "imagem": "bonnie_bennett.jpg"
+      },
+      {
+        "nome": "Katherine Pierce",
+        "descricao": "Vampira manipuladora e antiga interesse amoroso de Damon e Stefan.",
+        "idade": "520 anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Nina Dobrev",
+        "imagem": "katherine_pierce.jpg"
+      },
+      {
+        "nome": "Matt Donovan",
+        "descricao": "Amigo humano de Elena e envolvido em eventos sobrenaturais.",
+        "idade": "18 anos",
+        "especie": "Humano",
+        "interpretado_por": "Zach Roerig",
+        "imagem": "matt_donovan.jpg"
+      },
+      {
+        "nome": "Alaric Saltzman",
+        "descricao": "Professor de história e caçador de vampiros, que se torna um aliado dos protagonistas.",
+        "idade": "40 anos",
+        "especie": "Humano (posteriormente Vampiro Original)",
+        "interpretado_por": "Matt Davis",
+        "imagem": "alaric_saltzman.jpg"
+      },
+      {
+        "nome": "Klaus Mikaelson",
+        "descricao": "O vampiro original e um dos seres mais poderosos do universo de The Vampire Diaries.",
+        "idade": "1.000 anos",
+        "especie": "Vampiro Original",
+        "interpretado_por": "Joseph Morgan",
+        "imagem": "klaus_mikaelson.jpg"
+      },
+      {
+        "nome": "Elijah Mikaelson",
+        "descricao": "Irmão mais velho de Klaus, conhecido por seu código de honra.",
+        "idade": "1.000 anos",
+        "especie": "Vampiro Original",
+        "interpretado_por": "Daniel Gillies",
+        "imagem": "elijah_mikaelson.jpg"
+      },
+      {
+        "nome": "Rebekah Mikaelson",
+        "descricao": "Irmã de Klaus e Elijah, uma vampira que busca encontrar seu lugar no mundo.",
+        "idade": "1.000 anos",
+        "especie": "Vampiro Original",
+        "interpretado_por": "Claire Holt",
+        "imagem": "rebekah_mikaelson.jpg"
+      },
+      {
+        "nome": "Tyler Lockwood",
+        "descricao": "Um lobisomem e mais tarde um vampiro híbrido.",
+        "idade": "20 anos",
+        "especie": "Lobisomem (posteriormente Vampiro Híbrido)",
+        "interpretado_por": "Michael Trevino",
+        "imagem": "tyler_lockwood.jpg"
+      },
+      {
+        "nome": "Lexi Branson",
+        "descricao": "Uma vampira que é uma amiga leal de Stefan Salvatore.",
+        "idade": "300+ anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Arielle Kebbel",
+        "imagem": "lexi_branson.jpg"
+      },
+      {
+        "nome": "Enzo St. John",
+        "descricao": "Um vampiro com uma história complicada e conexão com Damon Salvatore.",
+        "idade": "150+ anos",
+        "especie": "Vampiro",
+        "interpretado_por": "Michael Malarkey",
+        "imagem": "enzo_st_john.jpg"
+      },
+      {
+        "nome": "Xerife Elizabeth 'Liz' Forbes",
+        "descricao": "Xerife de Mystic Falls e mãe de Caroline Forbes.",
+        "idade": "45 anos",
+        "especie": "Humana",
+        "interpretado_por": "Marguerite MacIntyre",
+        "imagem": "sheriff_liz_forbes.jpg"
+      }
+    ]
+  }
